@@ -1,0 +1,9 @@
+{
+    "DB": {
+      "endpoint": "dbhostname",
+      "username": "test",
+      "password": "test",
+      "dbname": "testdb",
+      "secret":"sajeed"
+    }
+  }
